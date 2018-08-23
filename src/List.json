@@ -1,0 +1,72 @@
+{
+  "speceArr":[
+    {
+      "priceId": 1,
+      "price": 35.0,
+      "stock": 8,
+      "attrValueList": [
+        {
+          "attrKey": "规格：",
+          "attrValue": "+免费配料",
+          "attrCode": "1001"
+        },
+        {
+          "attrKey": "甜度：",
+          "attrValue": "七分甜",
+          "attrCode": "2001"
+        }
+      ]
+    },
+    {
+      "priceId": 2,
+      "price": 35.1,
+      "stock": 9,
+      "attrValueList": [
+        {
+          "attrKey": "规格：",
+          "attrValue": "+燕麦",
+          "attrCode": "1002"
+        },
+        {
+          "attrKey": "甜度：",
+          "attrValue": "五分甜",
+          "attrCode": "2002"
+        }
+      ]
+    },
+    {
+      "priceId": 3,
+      "price": 35.0,
+      "stock": 10,
+      "attrValueList": [
+        {
+          "attrKey": "规格：",
+          "attrValue": "+免费配料",
+          "attrCode": "1004"
+        },
+        {
+          "attrKey": "甜度：",
+          "attrValue": "五分甜",
+          "attrCode": "2003"
+        }
+      ]
+    },
+    {
+      "priceId": 4,
+      "price": 35.0,
+      "stock": 10,
+      "attrValueList": [
+        {
+          "attrKey": "规格：",
+          "attrValue": "+免费配料",
+          "attrCode": "1004"
+        },
+        {
+          "attrKey": "甜度：",
+          "attrValue": "无糖",
+          "attrCode": "2004"
+        }
+      ]
+    }
+  ]
+}
